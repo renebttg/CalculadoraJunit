@@ -4,12 +4,11 @@
 
 <hr>
 
-Calculadora Java feita com o objetivo de ser cenário para testes com o uso do framework JUnit 5. <br>
-
+Calculadora Java feita com o objetivo de ser cenário para testes com o uso do framework JUnit 5.
 Projeto feito como atividade acadêmica da matéria Qualidade e Testes de Software.
 
 <hr>
-
+<br>Versão: 1.1</br>
 Autor: Rene Battaglia, 224032
 
 
