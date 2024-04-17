@@ -1,6 +1,8 @@
 # Calculadora Junit
 
-![image](https://github.com/renebttg/CalculadoraJunit/assets/114888521/093db0e0-3986-4b06-8983-f64c39e930c5)
+![CalculadoraTestScreenshot](https://github.com/renebttg/CalculadoraJunit/assets/114888521/05ff9a1e-5498-4f67-af3d-f4aab24f1bcd)
+
+
 
 <hr>
 
